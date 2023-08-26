@@ -1,4 +1,4 @@
-import Movie from "./class/Movie.js";
+import Menu from "./functions/Menu.js";
 /**
  * 
 const mv1 = new Movie('Nimona', 2023, ['Fantasy', 'Animation'],101)
@@ -13,3 +13,5 @@ mv2.showDetails()
 mv3.showDetails()
  * 
  */
+
+Menu()
